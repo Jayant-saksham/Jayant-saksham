@@ -24,7 +24,7 @@
 <br /><br/>
 
 ## &#x1f4c8; GitHub Stats
-![](https://komarev.com/ghpvc/?username=urvashi-code1255)
+![](https://komarev.com/ghpvc/?username=Jayant-saksham)
 
 <img  src="https://github-readme-stats.vercel.app/api?username=jayant-saksham&theme=radical&show_icons=true" width="48%" >
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jayant-saksham&layout=compact&theme=radical" width="48%"/>
