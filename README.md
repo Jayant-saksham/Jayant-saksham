@@ -1,4 +1,4 @@
-<h2> Hi there, I am Jayant Saksham <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
+<h2> Hi there, I am Jayant Saksham <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50"></h2>
  <img align='right' src="https://media.giphy.com/media/Yl5VGKskuiKrv6R2pN/giphy.gif" width="250"> 
  
 🏫 I am a second year Undergrad persuing B.Tech in Information Technology at Delhi Technological University.
@@ -26,5 +26,5 @@
 ## &#x1f4c8; GitHub Stats
 ![](https://komarev.com/ghpvc/?username=Jayant-saksham)
 
-<img  src="https://github-readme-stats.vercel.app/api?username=jayant-saksham&theme=radical&show_icons=true" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=jayant-saksham&theme=radical&show_icons=true" width="50%" >
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jayant-saksham&layout=compact&theme=radical" width="48%"/>
