@@ -1,5 +1,5 @@
 <h2> Hi there, I am Jayant Saksham <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
- <img align='right' src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="250"> 
+ <img align='right' src="https://media.giphy.com/media/Yl5VGKskuiKrv6R2pN/giphy.gif" width="250"> 
  
 🏫 I am a second year Undergrad persuing B.Tech in Information Technology at Delhi Technological University.
 
