@@ -26,10 +26,5 @@
 ## &#x1f4c8; GitHub Stats
 ![](https://komarev.com/ghpvc/?username=urvashi-code1255)
 
-<img  src="https://github-readme-stats.vercel.app/api?username=urvashi-code1255&show_icons=true&hide_border=true&theme=highcontrast" width="48%" >
-
-
-### Connect with me
-<a href="mailto:urvashianand0906@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/urvashi-anand-6bb449197/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/urvashi-code1255"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<img  src="https://github-readme-stats.vercel.app/api?username=jayant-saksham&theme=radical&show_icons=true" width="48%" >
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jayant-saksham&layout=compact&theme=radical" width="48%"/>
